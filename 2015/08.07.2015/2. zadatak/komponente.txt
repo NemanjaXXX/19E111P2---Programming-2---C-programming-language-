@@ -1,0 +1,3 @@
+23 crna 6.0
+257 crvena 2.0
+1 zelena 3.0

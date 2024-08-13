@@ -1,0 +1,5 @@
+Beograd 10 10 10 10
+Kragujevac 9 10 8 9
+Harvard University 10 7 10 8
+Stanford University 6 9 10 10
+Yale University 8 7 10 9

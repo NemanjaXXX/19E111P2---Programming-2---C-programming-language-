@@ -1,0 +1,3 @@
+vršina kuće je B4 kvadrata.
+Dnevna soba je za F kvadratnih metara veća od kuhinje.
+Cena kuće je 1E240 evra.

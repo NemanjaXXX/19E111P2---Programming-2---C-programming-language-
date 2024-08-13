@@ -1,0 +1,3 @@
+pivo 20
+jabuke 30
+ulje 25

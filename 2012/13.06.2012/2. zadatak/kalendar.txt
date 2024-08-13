@@ -1,0 +1,4 @@
+08:00-10:30 Ispit iz Osnova računarske tehnike.
+10:00-11:30 Pregled kod doktora.
+11:00-11:15 Preuzeti skripte iz štamparije.
+09:00-09:30 Odbrana domaćeg iz Praktikuma iz programiranja 2.

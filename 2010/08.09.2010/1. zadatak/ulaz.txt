@@ -1,0 +1,3 @@
+Igrajuca sekvenca, tzv. dancing sekvenca, je ona sekvenca znakova,
+koja pocinje velikim slovom, a zatim se naizmenicno smenjuju
+mala i VELIKA slova, uz ignorisanje ostalih znakova.
